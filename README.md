@@ -1,6 +1,6 @@
 # Todo App Vuejs
 This todo app is an exercise in order to understand how to create a single page server side rendered vue js application.
-demo [a link](https://github.com/user/repo/blob/branch/other_file.md)here
+DEMO [a here](https://todovuejs.herokuapp.com/)
 > A Vue.js project
 
 ## Build Setup
